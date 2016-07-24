@@ -1,0 +1,34 @@
+{
+  "name": "spon-tinypng",
+  "version": "1.0.0",
+  "description": "Shwojoy spon-tinypng plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "spon tinypng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqqiyuan/spon-tinypng.git"
+  },
+  "keywords": [
+    "showjoy",
+    "spon",
+    "tinypng"
+  ],
+  "author": {
+    "email": "miqi@showjoy.com",
+    "name": "miqi"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "mkdirp": "~0.3.5",
+    "request": "~2.31.0",
+    "rmdir": "~1.0.4",
+    "through2": "~0.4.2"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqqiyuan/spon-tinypng/issues"
+  },
+  "homepage": "https://github.com/qqqiyuan/spon-tinypng#readme"
+}
