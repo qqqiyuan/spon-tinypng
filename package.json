@@ -1,23 +1,40 @@
 {
-  "name": "spon-tinypng",
-  "version": "1.0.0",
-  "description": "Shwojoy spon-tinypng plugin",
-  "main": "index.js",
-  "scripts": {
-    "test": "spon tinypng"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/qqqiyuan/spon-tinypng.git"
-  },
-  "keywords": [
-    "showjoy",
-    "spon",
-    "tinypng"
+  "_args": [
+    [
+      "spon-tinypng",
+      "/Users/qiyuan/.spon/plugins"
+    ]
   ],
+  "_from": "spon-tinypng@latest",
+  "_id": "spon-tinypng@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/spon-tinypng",
+  "_nodeVersion": "4.2.3",
+  "_npmUser": {},
+  "_npmVersion": "3.7.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "spon-tinypng",
+    "raw": "spon-tinypng",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "d8b997f7c594544a2b32a08adb79d837ffb6a2bf",
+  "_shrinkwrap": null,
+  "_spec": "spon-tinypng",
+  "_where": "/Users/qiyuan/.spon/plugins",
   "author": {
     "email": "miqi@showjoy.com",
     "name": "miqi"
+  },
+  "bugs": {
+    "url": "https://github.com/qqqiyuan/spon-tinypng/issues"
   },
   "dependencies": {
     "gulp": "3.9.1",
@@ -27,9 +44,31 @@
     "rmdir": "~1.0.4",
     "through2": "~0.4.2"
   },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/qqqiyuan/spon-tinypng/issues"
+  "description": "Shwojoy spon-tinypng plugin",
+  "devDependencies": {},
+  "dist": {
+    "shasum": "d8b997f7c594544a2b32a08adb79d837ffb6a2bf",
+    "tarball": "http://npm.showjoy.net/spon-tinypng/-/spon-tinypng-1.0.0.tgz"
   },
-  "homepage": "https://github.com/qqqiyuan/spon-tinypng#readme"
+  "gitHead": "0291bd4cbe473b74f24078dd262107d0163f05fc",
+  "homepage": "https://github.com/qqqiyuan/spon-tinypng#readme",
+  "keywords": [
+    "showjoy",
+    "spon",
+    "tinypng"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "spon-tinypng",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqqiyuan/spon-tinypng.git"
+  },
+  "scripts": {
+    "test": "spon tinypng"
+  },
+  "version": "1.0.0"
 }
